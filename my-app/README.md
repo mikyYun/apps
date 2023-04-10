@@ -1,5 +1,5 @@
 # First RN_jobs
-![sample](my-app-recording.gif)
+<img src="my-app-recording.gif" width="300"/>
 
 ## 📝 Notes
 
